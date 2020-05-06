@@ -1,4 +1,4 @@
-<h2><a href="https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ">Author</a></h2>
+<h2><a href="https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ">Author - Jeremy Howard</a></h2>
 <h4>The course that I gone through <a href="https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96">Machine Learning</a> </h4>
 <br>
 <br>
